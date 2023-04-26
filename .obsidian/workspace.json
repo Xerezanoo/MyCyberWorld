@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4b6e5dc038f2278",
+            "id": "516b37c1fb359806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+                "file": "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+                "file": "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+                "file": "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/2. Fawn.md"
+                "file": "MCW/CTFs/HTB/Starting Point/3. Dancing.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4b6e5dc038f2278",
+  "active": "516b37c1fb359806",
   "lastOpenFiles": [
-    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
+    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "Untitled.md",
     "README.md",
     "MCW"
   ]
