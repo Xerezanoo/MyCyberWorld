@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "516b37c1fb359806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5603b641a84d89f8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +148,8 @@
   },
   "active": "5603b641a84d89f8",
   "lastOpenFiles": [
+    "Screenshot_2023-04-28_13_27_02.png",
+    "MCW/CTFs/HTB/Starting Point/5.Appointment.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
