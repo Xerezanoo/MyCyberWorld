@@ -148,6 +148,7 @@
   },
   "active": "5603b641a84d89f8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
@@ -164,6 +165,18 @@
     "MCW/Ports and Services",
     "MCW/CTFs/HTB/Starting Point/5.Appointment.md",
     "Screenshot_2023-04-28_13_27_02.png",
+=======
+    "MCW/Ports and Services/Port 23 - Telnet.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/Ports and Services",
+    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "README.md",
+    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
+    "Screenshot_2023-04-28_13_27_02.png",
+    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+>>>>>>> 2d1a9303d1486b12dc583dfcff6a0475cba20550
     "Untitled.md",
     "MCW"
   ]
