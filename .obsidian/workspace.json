@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e761574e26f4e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52ce349f9c1419eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MCW/CTFs/HTB/Starting Point/5. Appointment.md"
               }
             }
           }
@@ -171,15 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "52ce349f9c1419eb",
+  "active": "5603b641a84d89f8",
   "lastOpenFiles": [
-    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "README.md",
+    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
     "MCW/Ports and Services/Port 23 - Telnet.md",
     "MCW/Ports and Services/Port 21 - FTP.md",
-    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/Ports and Services/Well-known ports (0-1023)/0. TCP -- UDP.md",
     "MCW/Ports and Services/Untitled",
     "MCW/Ports and Services/Well-known ports (0-1023)/Untitled.md",
@@ -189,7 +165,6 @@
     "MCW/CTFs/HTB/Starting Point/5.Appointment.md",
     "Screenshot_2023-04-28_13_27_02.png",
     "Untitled.md",
-    "README.md",
     "MCW"
   ]
 }
