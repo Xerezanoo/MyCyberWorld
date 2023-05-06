@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
+                "file": "MCW/Ports and Services/Port 80 - HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "95b5d95ec73dbdef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
+                "file": "MCW/Ports and Services/Port 80 - HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
+                "file": "MCW/Ports and Services/Port 80 - HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCW/Ports and Services/Port 23 - Telnet.md"
+                "file": "MCW/Ports and Services/Port 80 - HTTP.md"
               }
             }
           }
@@ -148,14 +156,15 @@
   },
   "active": "fff935b1c9563b6b",
   "lastOpenFiles": [
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
+    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/1. Meow.md",
     "MCW/Ports and Services/Port 23 - Telnet.md",
     "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/1. Meow.md",
-    "MCW/Tools",
-    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
-    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md"
+    "MCW/Tools"
   ]
 }
