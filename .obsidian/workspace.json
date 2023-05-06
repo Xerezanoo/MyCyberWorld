@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "bb539c1e61a2ff5d",
+    "id": "df653d8d7a43f171",
     "type": "split",
     "children": [
       {
-        "id": "1cbd3e813c5b931b",
+        "id": "6bab21bbfb3cb839",
         "type": "tabs",
         "children": [
           {
-            "id": "5603b641a84d89f8",
+            "id": "fff935b1c9563b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97e17922ea2ea0bb",
+    "id": "9edcabd6d5cfe73f",
     "type": "split",
     "children": [
       {
-        "id": "71c61c4c46eb3390",
+        "id": "2f7eab7b9e180e86",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe08496395be69e",
+            "id": "68b65b0f9c80319a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e0fb33704baf1e05",
+            "id": "400b3ffdc5f9afea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "942558a0045a1c26",
+            "id": "9f13c6dee6ceae89",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "a1ed9c3154eb2927",
+    "id": "7ef69feac957b103",
     "type": "split",
     "children": [
       {
-        "id": "c4b1ef4d2fcf3d97",
+        "id": "8aa2c0ea7fc94f61",
         "type": "tabs",
         "children": [
           {
-            "id": "2996b998e8864123",
+            "id": "460502bb65629d29",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "837e67908a08e3eb",
+            "id": "7159c80577cdfba8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+                "file": "MCW/Ports and Services/Port 23 - Telnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "35aa4942ce5988c1",
+            "id": "3d05b539bee69e53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "d77864de952cc82a",
+            "id": "63ab993b3ec8c28f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCW/CTFs/HTB/Starting Point/4. Redeemer.md"
+                "file": "MCW/Ports and Services/Port 23 - Telnet.md"
               }
             }
           }
@@ -146,41 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5603b641a84d89f8",
+  "active": "fff935b1c9563b6b",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-=======
-<<<<<<< HEAD
-    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
-    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "README.md",
     "MCW/CTFs/HTB/Starting Point/1. Meow.md",
     "MCW/Ports and Services/Port 23 - Telnet.md",
     "MCW/Ports and Services/Port 21 - FTP.md",
-    "MCW/Ports and Services/Well-known ports (0-1023)/0. TCP -- UDP.md",
-    "MCW/Ports and Services/Untitled",
-    "MCW/Ports and Services/Well-known ports (0-1023)/Untitled.md",
-    "MCW/Ports and Services/Well-Known Ports (0-1023).md",
-    "MCW/Ports and Services/Well-known ports (0-1023)",
-    "MCW/Ports and Services",
-    "MCW/CTFs/HTB/Starting Point/5.Appointment.md",
-    "Screenshot_2023-04-28_13_27_02.png",
-=======
->>>>>>> 1093267078645390e8d7c8de3b86f064c4a38738
-    "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
-    "MCW/Ports and Services",
-    "README.md",
-    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
-    "Screenshot_2023-04-28_13_27_02.png",
+    "MCW/1. Meow.md",
+    "MCW/Tools",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
->>>>>>> 2d1a9303d1486b12dc583dfcff6a0475cba20550
-    "Untitled.md",
-    "MCW"
+    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md"
   ]
 }
