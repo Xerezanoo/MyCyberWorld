@@ -157,13 +157,13 @@
   "active": "fff935b1c9563b6b",
   "lastOpenFiles": [
     "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/Ports and Services/Port 80 - HTTP.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/Ports and Services/Port 23 - Telnet.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/1. Meow.md",
-    "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/1. Meow.md",
     "MCW/Tools"
   ]
