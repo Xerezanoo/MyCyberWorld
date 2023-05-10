@@ -1,0 +1,1 @@
+Nmap is a network scanning tool used for exploration, host discovery and security auditing
