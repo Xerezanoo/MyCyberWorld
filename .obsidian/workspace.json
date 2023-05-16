@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCW/Tools/Gobuster.md",
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCW/Tools/Gobuster.md",
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCW/Tools/Gobuster.md",
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCW/Tools/Gobuster.md"
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md"
               }
             }
           }
@@ -156,17 +156,19 @@
   },
   "active": "fff935b1c9563b6b",
   "lastOpenFiles": [
-    "MCW/Tools/Nmap.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/Tools/Gobuster.md",
-    "MCW/Ports and Services/Port 80 - HTTP.md",
+    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/1. Meow.md",
+    "README.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
     "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/1. Meow.md",
-    "MCW/Tools"
+    "MCW/Tools/Nmap.md",
+    "MCW/Tools/Gobuster.md",
+    "MCW/Tools",
+    "MCW/1. Meow.md"
   ]
 }
