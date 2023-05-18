@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/Tools/Nmap.md"
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md"
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
               }
             }
           }
@@ -156,17 +172,27 @@
   },
   "active": "fff935b1c9563b6b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "MCW/Tools/Gobuster.md",
     "MCW/Tools/Nmap.md",
     "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
     "MCW/Ports and Services/Port 80 - HTTP.md",
+=======
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
     "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
     "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
     "MCW/CTFs/HTB/Starting Point/1. Meow.md",
+    "README.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
     "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/1. Meow.md",
-    "MCW/Tools"
+    "MCW/Tools/Nmap.md",
+    "MCW/Tools/Gobuster.md",
+    "MCW/Tools",
+    "MCW/1. Meow.md"
   ]
 }
