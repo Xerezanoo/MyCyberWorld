@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "7c45839e4c714e24",
     "type": "split",
     "children": [
@@ -9,11 +10,38 @@
         "children": [
           {
             "id": "a7e69bdaf1e212ce",
+=======
+    "id": "d41cdbaf1da3cb9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a78d6e29243ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c643fe30849d643",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
+>>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
+>>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +53,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "52456a972dde30fe",
     "type": "split",
     "children": [
@@ -34,6 +63,17 @@
         "children": [
           {
             "id": "b6c321e55361c1b5",
+=======
+    "id": "d8df08a1831d04ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bbe9b2d3c6607b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9663b817d2b3eeb7",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +83,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "a37d30545915a185",
+=======
+            "id": "b99a0f8df9d1f47b",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +102,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "986440e947365454",
+=======
+            "id": "59d4a514c7a4fa41",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +120,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "e7a1bd83f6df1922",
     "type": "split",
     "children": [
@@ -81,11 +130,38 @@
         "children": [
           {
             "id": "3fcd5321854e1a10",
+=======
+    "id": "061572a252b309e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0072a5d3d48e3580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef85871e4c0c19a4",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
+>>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
+>>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +173,43 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c8a0086ef96ce43e",
+=======
+            "id": "9aee25aebe8070f6",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+=======
+<<<<<<< HEAD
+                "file": "MCW/Tools/Nmap.md",
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
+>>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
+>>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "7cd8a7ef61c3b902",
+=======
+            "id": "2a28943f9a6106f0",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +220,32 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f9f28a4988a8394c",
+=======
+            "id": "75706bb81a0e872a",
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md"
+=======
+<<<<<<< HEAD
+                "file": "MCW/Ports and Services/Port 3306 - MySQL.md"
+=======
+<<<<<<< HEAD
+                "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md"
+=======
+<<<<<<< HEAD
+                "file": "MCW/Tools/Nmap.md"
+=======
+                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md"
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
+>>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
+>>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
               }
             }
           }
@@ -146,9 +266,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "a7e69bdaf1e212ce",
   "lastOpenFiles": [
     "MCW/Tools/Gobuster.md",
     "MCW/Ports and Services/Port 80 - HTTP.md"
+=======
+  "active": "7c643fe30849d643",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+    "MCW/Ports and Services/Port 3306 - MySQL.md"
+=======
+<<<<<<< HEAD
+    "MCW/CTFs/HTB/Starting Point/7. Cocrodile.md",
+    "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+=======
+<<<<<<< HEAD
+    "MCW/Tools/Gobuster.md",
+    "MCW/Tools/Nmap.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
+=======
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
+    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+>>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
+>>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
+    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
+    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
+    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
+    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
+    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
+    "MCW/Tools/Gobuster.md",
+    "MCW/Tools/Nmap.md",
+    "README.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
+    "MCW/Ports and Services/Port 23 - Telnet.md",
+    "MCW/Tools",
+    "MCW/1. Meow.md"
+>>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
+>>>>>>> 33a407dc6d4f49314d6ef2f31e871d15f33af95a
   ]
 }
