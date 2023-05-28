@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "d41cdbaf1da3cb9c",
+    "id": "b600f95bdcfdb2cb",
     "type": "split",
     "children": [
       {
-        "id": "17a78d6e29243ccd",
+        "id": "bdf8ce841a5c4bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "7c643fe30849d643",
+            "id": "5939648488b993ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
-=======
-<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
-=======
-<<<<<<< HEAD
-                "file": "MCW/Tools/Nmap.md",
-=======
-                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
->>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
->>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
->>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d8df08a1831d04ff",
+    "id": "ec97ac3f13350b77",
     "type": "split",
     "children": [
       {
-        "id": "a5bbe9b2d3c6607b",
+        "id": "b9ae6a29dcfff86a",
         "type": "tabs",
         "children": [
           {
-            "id": "9663b817d2b3eeb7",
+            "id": "b1a5c91024b486aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "b99a0f8df9d1f47b",
+            "id": "7cb5da244ac0b75c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "59d4a514c7a4fa41",
+            "id": "50837b8374cc11ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,32 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "061572a252b309e4",
+    "id": "d6bf5b25246afb8a",
     "type": "split",
     "children": [
       {
-        "id": "0072a5d3d48e3580",
+        "id": "1367f4d1eac64541",
         "type": "tabs",
         "children": [
           {
-            "id": "ef85871e4c0c19a4",
+            "id": "f0b0aa49dc8d2da2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
-=======
-<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
-=======
-<<<<<<< HEAD
-                "file": "MCW/Tools/Nmap.md",
-=======
-                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
->>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
->>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
->>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,31 +97,19 @@
             }
           },
           {
-            "id": "9aee25aebe8070f6",
+            "id": "24288832a92f2fde",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "MCW/Ports and Services/Port 3306 - MySQL.md",
-=======
-<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md",
-=======
-<<<<<<< HEAD
-                "file": "MCW/Tools/Nmap.md",
-=======
-                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
->>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
->>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
->>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2a28943f9a6106f0",
+            "id": "f5e7bed5847893e4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,24 +120,12 @@
             }
           },
           {
-            "id": "75706bb81a0e872a",
+            "id": "4a296456b9dfac7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "MCW/Ports and Services/Port 3306 - MySQL.md"
-=======
-<<<<<<< HEAD
                 "file": "MCW/CTFs/HTB/Starting Point/8. Responder.md"
-=======
-<<<<<<< HEAD
-                "file": "MCW/Tools/Nmap.md"
-=======
-                "file": "MCW/CTFs/HTB/Starting Point/6. Sequel.md"
->>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
->>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
->>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
               }
             }
           }
@@ -194,41 +146,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7c643fe30849d643",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
-    "MCW/Ports and Services/Port 3306 - MySQL.md"
-=======
-<<<<<<< HEAD
-    "MCW/CTFs/HTB/Starting Point/7. Cocrodile.md",
-    "MCW/CTFs/HTB/Starting Point/8. Responder.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-=======
-<<<<<<< HEAD
-    "MCW/Tools/Gobuster.md",
-    "MCW/Tools/Nmap.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/Ports and Services/Port 80 - HTTP.md",
-=======
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
-    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
->>>>>>> 65cda171f60f7ec292e320b3ba96ba2230dfd62e
->>>>>>> 993a0327841a9c547505c2bf1c80ff03aa87f419
-    "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
-    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
-    "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
-    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
-    "MCW/Ports and Services/Port 80 - HTTP.md",
-    "MCW/Tools/Gobuster.md",
-    "MCW/Tools/Nmap.md",
-    "README.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
-    "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/Tools",
-    "MCW/1. Meow.md"
->>>>>>> 46780513128f5b8552e7c14e07f24b38f6359a55
-  ]
+  "active": "5939648488b993ea",
+  "lastOpenFiles": []
 }
