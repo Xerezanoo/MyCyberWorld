@@ -153,6 +153,10 @@
     "MCW/Ports and Services/Port 23 - Telnet.md",
     "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+<<<<<<< HEAD
+    "MCW/Ports and Services/Port 80 - HTTP.md",
+=======
+>>>>>>> 48408e15fdfe747e0fe436acd9c7875a8fecff52
     "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
     "MCW/CTFs/HTB/Starting Point/7. Cocrodile.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
