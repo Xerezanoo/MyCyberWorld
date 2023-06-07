@@ -149,6 +149,9 @@
   "active": "44d0ac540a17d88e",
   "lastOpenFiles": [
     "MCW/Ports and Services/Port 3306 - MySQL.md",
+    "MCW/Ports and Services/Port 80 - HTTP.md",
+    "MCW/Ports and Services/Port 23 - Telnet.md",
+    "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/CTFs/HTB/Starting Point/8. Responder.md",
     "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
     "MCW/CTFs/HTB/Starting Point/7. Cocrodile.md",
