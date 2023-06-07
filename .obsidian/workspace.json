@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4b986b58cbd68d13",
+    "id": "3101c6ef902b43d3",
     "type": "split",
     "children": [
       {
-        "id": "584789e27c461e8e",
+        "id": "7d7352e6430b1d87",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4e891ace1d7f39",
+            "id": "44d0ac540a17d88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "22b50a9ec8a9ee43",
+    "id": "1c497de5510f5d24",
     "type": "split",
     "children": [
       {
-        "id": "31d7e15e3d7be386",
+        "id": "10dd58d5c8464092",
         "type": "tabs",
         "children": [
           {
-            "id": "0d7f175d92ea6468",
+            "id": "d86e3891ef0e8071",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "1850fa4574217d38",
+            "id": "1d113a48bce5b030",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "17fa43fbbac884ad",
+            "id": "98977e866a06a81d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "f105219a31e3bb87",
+    "id": "45a8fbcfce5e75fe",
     "type": "split",
     "children": [
       {
-        "id": "99e2f4fe3418eee4",
+        "id": "6c736c7879c8cdea",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc25eaea42900b8",
+            "id": "663d14dd89c775b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "cf59a80fc7d7a1b7",
+            "id": "e4ce16627a94b1ac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "985b5ca92f352c27",
+            "id": "73dbe3d9f2035d64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "4c50c2fcf9e66af8",
+            "id": "489c266cdf1c8d2d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,21 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1f4e891ace1d7f39",
+  "active": "44d0ac540a17d88e",
   "lastOpenFiles": [
     "MCW/Ports and Services/Port 3306 - MySQL.md",
     "MCW/CTFs/HTB/Starting Point/8. Responder.md",
+<<<<<<< HEAD
     "MCW/Ports and Services/Port 80 - HTTP.md",
+=======
+>>>>>>> 48408e15fdfe747e0fe436acd9c7875a8fecff52
     "MCW/CTFs/HTB/Starting Point/6. Sequel.md",
-    "MCW/Tools/Gobuster.md",
-    "MCW/Ports and Services/Port 23 - Telnet.md",
-    "MCW/CTFs/HTB/Starting Point/2. Fawn.md",
-    "MCW/Ports and Services/Port 21 - FTP.md",
     "MCW/CTFs/HTB/Starting Point/7. Cocrodile.md",
-    "MCW/CTFs/HTB/Starting Point/5. Appointment.md",
     "MCW/CTFs/HTB/Starting Point/4. Redeemer.md",
-    "MCW/CTFs/HTB/Starting Point/3. Dancing.md",
-    "MCW/CTFs/HTB/Starting Point/1. Meow.md",
-    "README.md"
+    "MCW/CTFs/HTB/Starting Point/5. Appointment.md"
   ]
 }
