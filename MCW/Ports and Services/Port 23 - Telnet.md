@@ -1,9 +1,9 @@
-Telnet is a network protocol used to virtually access a computer. It is not a secure protocol and is unencrypted. It is not normally used because it is easy to hack.
+Telnet es un protocolo de red usado para acceder de manera virtual y remota a un equipo. No es un protocolo seguro porque no está encriptado. No se suele usar porque es muy fácil de hackear.
 
-* **¿How to use it?**
-	1. Firstly, we have to scan the machine and see if port 23 is open. To do it, we are going to use  `nmap [ip machine]` 
-	2. If port 23 is open, now we are going to get into with `telnet [ip machine]`
-		Now, we have to input a username and we are going to type `root` to get into the machine
+* **¿Cómo poder comprometerlo?**
+	1. Primero escaneamos con `nmap [ip machine]` la máquina objetivo para ver si tiene abierto el puerto 23 (telnet).
+	2. Si está abierto, nos conectamos haciendo `telnet [ip machine]`
+		Ahora tenemos que introducir un usuario y escribimos `root` sin contraseña para acceder.
 	
-You can see an example in [[1. Meow]]
+Podemos ver un ejemplo en [[1. Meow - Telnet]]
 

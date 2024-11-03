@@ -1,0 +1,1 @@
+Consola para conectarnos por WinRM.

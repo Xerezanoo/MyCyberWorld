@@ -1,3 +1,3 @@
-MySQL is a protocol which is used by the **mysql** client, MySQL Connectors, and utilities such as mysqldump and mysqlpump.
+MySQL es un protocolo usado para almacenar y manejar las bases de datos en un equipo.
 
-You can see an example in [[6. Sequel]] 
+You can see an example in [[2. Sequel - MySQL]] 

@@ -1,1 +1,1 @@
-Nmap is a network scanning tool used for exploration, host discovery and security auditing
+Nmap es una herramienta para escanear redes y explorar y descubrir los hosts conectados, los puertos abiertos, los servicios que están corriendo... Se usa para auditorías de seguridad.

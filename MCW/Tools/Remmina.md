@@ -1,0 +1,1 @@
+Cliente para Escritorio Remoto. Permite conexiones RDP, SSH, SPICE, VNC y X2Go.

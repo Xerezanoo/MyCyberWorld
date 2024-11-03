@@ -1,8 +1,11 @@
-Gobuster is a tool used to brute-force URLs including directories, files and DNS subdomains.
+Gobuster es una herramienta usada para forzar de forma bruta URLs y encontrar sus directorios, archivos y subdominios DNS.
 
-* How to use it?
+* **¿Como usarla?**
 ```bash
 gobuster -u http://[target ip]/ -w /usr/share/wordlists/[select a wordlist]
 ```
 
-I use it in [[5. Appointment]] 
+- **Opciones de Gobuster**
+
+
+I use it in [[1. Appointment - SQL Injection]] 

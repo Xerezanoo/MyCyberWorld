@@ -1,8 +1,8 @@
-FTP (File Transfer Protocol) is a network protocol for transmitting files between computers over TCP/IP.
-There are some FTP types:
-- Anonymous FTP - This is the most basic form of FTP. It provides support for data transfers without encrypting data or using a username and password. It is dangerous.
-You can see an example in [[2. Fawn]] 
+FTP (File Transfer Protocol) es un protocolo de red para transmitir archivos entre ordenadores a través de TCP/IP.
+Estos son varios tipos de FTP:
+- Anonymous FTP - Esta es la forma más básica de FTP. Hace el proceso de tranferencias de archivos sin encriptación de datos y sin usar un usuario ni contraseña. Es peligroso.
+	Podemos ver un ejemplo de este en [[2. Fawn - FTP]]
 
-- Password-protected FTP -  It requires a username and password.
+- Password-protected FTP -  Necesita un usuario y una contraseña para acceder.
 
-- FTP over explicit SSL/TLS (FTPES) - This is a commonly used approach by web and file sharing services to enable secure file transfers.
+- FTP over explicit SSL/TLS (FTPES) - Es el que se usa normalmente por las webs para permitir una transferencia de archivos segura.

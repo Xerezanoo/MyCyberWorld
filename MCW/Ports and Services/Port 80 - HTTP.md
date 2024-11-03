@@ -1,10 +1,10 @@
-HTTP (Hypertext Transfer Protocol) is the set of rules for transferring files over the web. It is an app protocol that runs on top of the TCP/IP suite of protocols.
+HTTP (Hypertext Transfer Protocol) son las reglas para la transferencia de recursos a través de la web.
 
-Web servers works with HTTP and it can have a lot of vulnerabilities. The common web security vulnerabilities are:
+Los servidores web trabajan con HTTP y esto puede tener un montón de vulnerabilidades. Las más comunes son:
 - Authentication and Authorization
 
 - Injection Flaws
-	- SQL injection --> We can see an example in [[5. Appointment]]
+	- SQL injection --> We can see an example in [[1. Appointment - SQL Injection]]
 	- LDAP injection
 	- XML injection
 
