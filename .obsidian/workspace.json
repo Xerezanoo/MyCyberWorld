@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "a9b32f815cae6fd5",
     "type": "split",
     "children": [
@@ -9,6 +10,17 @@
         "children": [
           {
             "id": "8334649c1188e2e9",
+=======
+    "id": "50c0d456afec52ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ca6dcb06766ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1aa35c50a24698",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,6 +39,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "c94ae305ea8c1146",
     "type": "split",
     "children": [
@@ -36,6 +49,17 @@
         "children": [
           {
             "id": "a790de9c993e83df",
+=======
+    "id": "22ab24aa65edaa69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35443086ac9a2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca3477be5abe3de",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "26c28f8b22c1cfb3",
+=======
+            "id": "079bfcabb50776cb",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +92,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "94b1c18c3256066c",
+=======
+            "id": "09600a10ba9f4a45",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,6 +112,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "28b8c838c9481f31",
     "type": "split",
     "children": [
@@ -89,6 +122,17 @@
         "children": [
           {
             "id": "a2b800ccc352f22c",
+=======
+    "id": "7b47400dddcef894",
+    "type": "split",
+    "children": [
+      {
+        "id": "384b840e098aa427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cdf448156c0cca",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +151,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f6c96b2232e75a94",
+=======
+            "id": "10f0e6e5ffd8d4ad",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +169,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d2dc6bf93690f39e",
+=======
+            "id": "c0180090913ac1a2",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,7 +186,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d033405602673c71",
+=======
+            "id": "77d28e6087443b69",
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -162,6 +218,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "8334649c1188e2e9",
   "lastOpenFiles": [
     "MCW/Ports and Services/Port 22 - SSH.md",
@@ -194,4 +251,8 @@
     "MCW/CTFs/HTB/Starting Point/Starting Point 2",
     "MCW/CTFs/HTB/Starting Point/Starting Point 1"
   ]
+=======
+  "active": "9b1aa35c50a24698",
+  "lastOpenFiles": []
+>>>>>>> 9cc848d66a43a073baf86044fc3e3953617f80ff
 }
