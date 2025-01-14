@@ -1,2 +1,2 @@
 Herramienta para escuchar por una interfaz de red y hacer diferentes tipos de ataque como:
-- Montar un servidor Samba malicioso y falso y obtener la autenticación NTML de quien entre para luego crackear el hash de su contraseña con [[John the Ripper]] y poder acceder por WinRM. Lo podemos ver en [[4. Responder - Web, Responder, John the Ripper y Evil-WinRM]].
+- Montar un servidor Samba malicioso y falso y obtener la autenticación NTML de quien entre para luego crackear el hash de su contraseña con [[John the Ripper]] y poder acceder por WinRM. Lo podemos ver en [[4. Responder - Web (Local File Inclusion), Responder, John the Ripper y Evil-WinRM]].

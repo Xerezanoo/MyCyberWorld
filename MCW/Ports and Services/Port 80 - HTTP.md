@@ -4,7 +4,7 @@ Los servidores web trabajan con HTTP y esto puede tener un montón de vulnerabil
 - Authentication and Authorization
 
 - Injection Flaws
-	- SQL injection --> We can see an example in [[1. Appointment - SQL Injection]]
+	- SQL injection --> We can see an example in [[1. Appointment - Web (SQL Injection, Gobuster dir)]]
 	- LDAP injection
 	- XML injection
 

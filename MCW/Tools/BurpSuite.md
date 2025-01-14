@@ -1,0 +1,1 @@
+Proxy para recibir por aquí las peticiones web antes de enviarla al servidor y así poder verla y modificarla.

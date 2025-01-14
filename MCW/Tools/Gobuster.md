@@ -8,4 +8,4 @@ gobuster -u http://[target ip]/ -w /usr/share/wordlists/[select a wordlist]
 - **Opciones de Gobuster**
 
 
-I use it in [[1. Appointment - SQL Injection]] 
+I use it in [[1. Appointment - Web (SQL Injection, Gobuster dir)]] 

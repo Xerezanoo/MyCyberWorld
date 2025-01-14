@@ -1,0 +1,1 @@
+Extensión de navegador para averiguar las tecnologías que usa el sitio web.
