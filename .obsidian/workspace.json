@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/Awscli.md",
+                "file": "Herramientas/Evil-WinRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awscli"
+              "title": "Evil-WinRM"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "001de31604066cf8",
@@ -165,32 +165,33 @@
   },
   "active": "7e409c54a2720498",
   "lastOpenFiles": [
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
+    "Herramientas/Wappalyzer - Whatweb.md",
+    "Herramientas/BurpSuite.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/1. Appointment - Web (SQL Injection, Gobuster dir).md",
     "Herramientas/Awscli.md",
-    "Herramientas/Remmina.md",
-    "Herramientas/Patator.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics.md",
     "Herramientas/Nmap.md",
-    "Sin título.md",
-    "Herramientas/Responder.md",
-    "Herramientas/Wappalyzer.md",
-    "Herramientas/Nikto.md",
-    "Herramientas/Netcat.md",
+    "img/funnel1.png",
+    "README.md",
     "Herramientas/John the Ripper.md",
+    "Herramientas/Netcat.md",
+    "Herramientas/Nikto.md",
     "Herramientas/Gobuster.md",
     "Herramientas/Evil-WinRM.md",
-    "Herramientas/BurpSuite.md",
-    "Puertos y Servicios/Port 3306 - MySQL.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
+    "Puertos y Servicios/Port 21 - FTP.md",
     "Puertos y Servicios/Port 27017 - MongoDB.md",
     "Puertos y Servicios/Port 6379 - Redis.md",
-    "README.md",
     "Puertos y Servicios/Port 3389 - RDP.md",
+    "Puertos y Servicios/Port 3306 - MySQL.md",
     "Puertos y Servicios/Port 873 - Rsync.md",
     "Puertos y Servicios/Port 80 - HTTP.md",
     "Puertos y Servicios/Port 23 - Telnet.md",
     "Puertos y Servicios/Port 22 - SSH.md",
-    "Puertos y Servicios/Port 21 - FTP.md",
-    "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux/2. Volatility.md",
-    "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux/1. Volcado de memoria RAM con LiME.md",
+    "Herramientas/Remmina.md",
+    "Herramientas/Patator.md",
+    "Sin título.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux/Certificado Análisis Forense Básico en Sistemas Linux - Juan García Lanza.pdf",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux/Certificado Análisis Forense Avanzado en Sistemas Linux - Juan García Lanza.pdf",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux",
