@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
+=======
+                "file": "Herramientas/Evil-WinRM.md",
+>>>>>>> 5ef9e006a9bce723743e2e5f3b9dade3626b3ab3
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn"
+=======
+              "title": "Evil-WinRM"
+>>>>>>> 5ef9e006a9bce723743e2e5f3b9dade3626b3ab3
             }
           }
         ]
@@ -78,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "001de31604066cf8",
@@ -165,6 +173,7 @@
   },
   "active": "7e409c54a2720498",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Herramientas/Awscli.md",
     "Herramientas/BurpSuite.md",
     "Herramientas/John the Ripper.md",
@@ -187,6 +196,37 @@
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux/2. Registros del Sistema.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux/3. Listado de paquetes instalados.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux/4. Comando Grep.md",
+=======
+    "Herramientas/Wappalyzer - Whatweb.md",
+    "Herramientas/BurpSuite.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/1. Appointment - Web (SQL Injection, Gobuster dir).md",
+    "Herramientas/Awscli.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics.md",
+    "Herramientas/Nmap.md",
+    "img/funnel1.png",
+    "README.md",
+    "Herramientas/John the Ripper.md",
+    "Herramientas/Netcat.md",
+    "Herramientas/Nikto.md",
+    "Herramientas/Gobuster.md",
+    "Herramientas/Evil-WinRM.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
+    "Puertos y Servicios/Port 21 - FTP.md",
+    "Puertos y Servicios/Port 27017 - MongoDB.md",
+    "Puertos y Servicios/Port 6379 - Redis.md",
+    "Puertos y Servicios/Port 3389 - RDP.md",
+    "Puertos y Servicios/Port 3306 - MySQL.md",
+    "Puertos y Servicios/Port 873 - Rsync.md",
+    "Puertos y Servicios/Port 80 - HTTP.md",
+    "Puertos y Servicios/Port 23 - Telnet.md",
+    "Puertos y Servicios/Port 22 - SSH.md",
+    "Herramientas/Remmina.md",
+    "Herramientas/Patator.md",
+    "Sin título.md",
+    "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux/Certificado Análisis Forense Básico en Sistemas Linux - Juan García Lanza.pdf",
+    "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux/Certificado Análisis Forense Avanzado en Sistemas Linux - Juan García Lanza.pdf",
+>>>>>>> 5ef9e006a9bce723743e2e5f3b9dade3626b3ab3
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/2. Análisis forense avanzado en sistemas Linux",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/1. Análisis forense básico en sistemas Linux",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/00. Herramientas/Volatility/Volatility3 Repo.txt",
@@ -195,12 +235,15 @@
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux/00. Herramientas",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Linux",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/certificado_análisis_forense_avanzado_en_sistemas_windows.pdf",
+<<<<<<< HEAD
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/8. Uso de Volatility.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/7. Captura de listado de aplicaciones instaladas.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/6. Capturar los posibles Registry Spawings.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/5. Capturar la configuración del Firewall.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/4. Capturar dispositivos USB que se hayan conectado.md",
     "Análisis Forense/Talleres de Análisis Forense/Análisis forense en sistemas Windows/2. Análisis forense avanzado en sistemas Windows/3. Capturar contraseñas desde navegadores (WebBrowserPassView).md",
+=======
+>>>>>>> 5ef9e006a9bce723743e2e5f3b9dade3626b3ab3
     "MCW/img/funnel1.png"
   ]
 }
