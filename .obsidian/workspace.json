@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
+=======
+                "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/4. Responder - Web (Local File Inclusion), Responder, John the Ripper y Evil-WinRM.md",
+>>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell)"
+=======
+              "title": "4. Responder - Web (Local File Inclusion), Responder, John the Ripper y Evil-WinRM"
+>>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
             }
           }
         ]
@@ -44,7 +52,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,16 +168,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "5ac08e17ea6891b1",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/8. Funnel - FTP, Patator (Fuerza bruta), SSH (Local Port Forwarding y Dynamic Port Forwarding (Proxychains)).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/7. Bike - Web (Nikto, Wappalyzer, Gobuster, BurpSuite, Server-Side Template Injection (SSTI)).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/6. Ignition - Web (Gobuster y BurpSuite).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
+>>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
     "Puertos y Servicios/Port 445 - SMB - Samba.md",
     "Puertos y Servicios/Port 139 - SMB sobre NetBios.md",
     "Puertos y Servicios/Port 22 - SSH.md",
@@ -182,7 +198,6 @@
     "Herramientas/Gobuster.md",
     "Herramientas/Evil-WinRM.md",
     "Herramientas/BurpSuite.md",
-    "Herramientas/Awscli.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md"
+    "Herramientas/Awscli.md"
   ]
 }
