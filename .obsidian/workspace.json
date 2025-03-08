@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "bc8900cc0241d80e",
+    "id": "0e2015b72d4fbc62",
     "type": "split",
     "children": [
       {
-        "id": "88436bcc7f8daea2",
+        "id": "baf2057324b45f65",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac08e17ea6891b1",
+            "id": "932a4c1cdfe2ff0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
-=======
-                "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/4. Responder - Web (Local File Inclusion), Responder, John the Ripper y Evil-WinRM.md",
->>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
+                "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 3/1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell)"
-=======
-              "title": "4. Responder - Web (Local File Inclusion), Responder, John the Ripper y Evil-WinRM"
->>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
+              "title": "1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7a09a739573bf05d",
+    "id": "f41a819ec8cd7cad",
     "type": "split",
     "children": [
       {
-        "id": "fc52bf894c70ab9f",
+        "id": "44432b91bb3d30d3",
         "type": "tabs",
         "children": [
           {
-            "id": "52edc06250351f40",
+            "id": "837e8ddc735acb4e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "16fcbd9f3602ba6b",
+            "id": "b44f2d7326669c59",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "5eb04916add02d91",
+            "id": "65b043338ec4187e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "37d29dc9b8b9df85",
+    "id": "f3da72219bf46379",
     "type": "split",
     "children": [
       {
-        "id": "1f50c8ec89ade632",
+        "id": "af3c355b7159a3d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ec92a0c5c0894096",
+            "id": "87a45ba805f5e570",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas/Smbclient.md",
+                "file": "Herramientas/Impacket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Smbclient"
+              "title": "Enlaces entrantes de Impacket"
             }
           },
           {
-            "id": "1d26360fc8008814",
+            "id": "a67a0a92709fc47d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas/Smbclient.md",
+                "file": "Herramientas/Impacket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Smbclient"
+              "title": "Enlaces salientes de Impacket"
             }
           },
           {
-            "id": "234a8a471de4bc7c",
+            "id": "befe6bf0a5b159c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,18 +137,18 @@
             }
           },
           {
-            "id": "01ab7b23d2c8ad9a",
+            "id": "377a32cac8bfaa20",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas/Smbclient.md",
+                "file": "Herramientas/Impacket.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Smbclient"
+              "title": "Esquema de Impacket"
             }
           }
         ]
@@ -168,36 +160,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5ac08e17ea6891b1",
+  "active": "932a4c1cdfe2ff0f",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
+    "img/adminConecction.png",
+    "img/administratorPasswd.png",
+    "img/filesCanContainCreds.png",
+    "Herramientas/WinPEAS - Windows Privilege Escalation Awesome Script.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 3/1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt.md",
+    "Herramientas/Nmap.md",
+    "Herramientas/Patator.md",
+    "Herramientas/Remmina.md",
+    "Herramientas/Responder.md",
+    "Herramientas/Smbclient.md",
+    "Herramientas/Netcat.md",
+    "img/powershellPWDSystem32.png",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/8. Funnel - FTP, Patator (Fuerza bruta), SSH (Local Port Forwarding y Dynamic Port Forwarding (Proxychains)).md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/7. Bike - Web (Nikto, Wappalyzer, Gobuster, BurpSuite, Server-Side Template Injection (SSTI)).md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/6. Ignition - Web (Gobuster y BurpSuite).md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
->>>>>>> 629fdccab1fa64ae0fc7410d66247396a55a3e07
-    "Puertos y Servicios/Port 445 - SMB - Samba.md",
-    "Puertos y Servicios/Port 139 - SMB sobre NetBios.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/6. Ignition - Web (Gobuster y BurpSuite).md",
+    "img/whoamiXPCMDShell.png",
+    "img/errorXPCMDShell.png",
+    "img/comandosMSSQL.png",
+    "img/mssqlclientHelp.png",
+    "Herramientas/Impacket.md",
+    "Herramientas/Nikto.md",
+    "Puertos y Servicios/Port 1433 - Microsoft SQL Server.md",
+    "Puertos y Servicios/Port 135 - Microsoft RPC.md",
     "Puertos y Servicios/Port 22 - SSH.md",
     "Puertos y Servicios/Port 21 - FTP.md",
-    "Herramientas/Smbclient.md",
-    "Herramientas/Patator.md",
-    "Herramientas/Nmap.md",
-    "Herramientas/Nikto.md",
     "Herramientas/John the Ripper.md",
-    "Herramientas/Gobuster.md",
-    "Herramientas/Evil-WinRM.md",
-    "Herramientas/BurpSuite.md",
-    "Herramientas/Awscli.md"
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/5. Explosion - RDP.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/4. Redeemer - Redis.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/2. Fawn - FTP.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/1. Appointment - Web (SQL Injection, Gobuster dir).md"
   ]
 }

