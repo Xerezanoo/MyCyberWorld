@@ -2,6 +2,14 @@
 Gobuster es una herramienta rápida y eficiente para fuerza bruta en aplicaciones web. Se usa principalmente para descubrir directorios ocultos, archivos y subdominios mediante listas de palabras (wordlists).
 Lo uso por primera vez en [[1. Appointment - Web (SQL Injection, Gobuster dir)]].
 
+Actualizamos los paquetes de la máquina antes de instalarlo:
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+```bash
+sudo apt install gobuster
+```
+
 1. Uso para Descubrir Directorios y Archivos
 ```bash
 gobuster dir -u http://[IP/TARGET] -w /usr/share/wordlists/[WORDLIST]
