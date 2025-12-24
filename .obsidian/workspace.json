@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs/HackTheBox-HTB/Starting Point/Starting Point 3/1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt.md",
+                "file": "CTFs/TryHackMe-THM/1. Simple CTF - FTP, Web, CMS Made Simple Vulnerable, Password Cracking, SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt"
+              "title": "1. Simple CTF - FTP, Web, CMS Made Simple Vulnerable, Password Cracking, SSH"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,11 +171,18 @@
   },
   "active": "932a4c1cdfe2ff0f",
   "lastOpenFiles": [
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/4. Redeemer - Redis.md",
+    "CTFs/TryHackMe-THM/1. Simple CTF - FTP, Web, CMS Made Simple Vulnerable, Password Cracking, SSH.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/1. Meow - Telnet.md",
+    "Herramientas/Gobuster.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 3/1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt.md",
     "img/adminConecction.png",
     "img/administratorPasswd.png",
     "img/filesCanContainCreds.png",
     "Herramientas/WinPEAS - Windows Privilege Escalation Awesome Script.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 3/1. Archetype - Windows, SMB, MSSQL, Impacket, SQL, Reverse Shell, Privileges Escalation, winPEAS, ConsoleHost_history.txt.md",
     "Herramientas/Nmap.md",
     "Herramientas/Patator.md",
     "Herramientas/Remmina.md",
@@ -182,11 +190,8 @@
     "Herramientas/Smbclient.md",
     "Herramientas/Netcat.md",
     "img/powershellPWDSystem32.png",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/10. Tactics - Windows, Samba, SMB Relay, Nmap -Pn.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/9. Pennyworth - Web (Login, Jenkins, Groovy Script, NetCat, Reverse Shell).md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/8. Funnel - FTP, Patator (Fuerza bruta), SSH (Local Port Forwarding y Dynamic Port Forwarding (Proxychains)).md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/7. Bike - Web (Nikto, Wappalyzer, Gobuster, BurpSuite, Server-Side Template Injection (SSTI)).md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/5. Three - Web (Gobuster), AWS, PHP Reverse-Shell, NetCat.md",
     "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/6. Ignition - Web (Gobuster y BurpSuite).md",
     "img/whoamiXPCMDShell.png",
     "img/errorXPCMDShell.png",
@@ -199,9 +204,6 @@
     "Puertos y Servicios/Port 22 - SSH.md",
     "Puertos y Servicios/Port 21 - FTP.md",
     "Herramientas/John the Ripper.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/5. Explosion - RDP.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/4. Redeemer - Redis.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/2. Fawn - FTP.md",
-    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 2/1. Appointment - Web (SQL Injection, Gobuster dir).md"
+    "CTFs/HackTheBox-HTB/Starting Point/Starting Point 1/5. Explosion - RDP.md"
   ]
 }
